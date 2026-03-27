@@ -1,6 +1,6 @@
 fastapi==0.111.0
 uvicorn[standard]==0.29.0
-openai-whisper==20231117
+openai-whisper
 torch
 ollama==0.2.1
 tensorflow==2.16.1
